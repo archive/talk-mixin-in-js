@@ -1,0 +1,2 @@
+var Book = function(){
+};

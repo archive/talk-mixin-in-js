@@ -1,0 +1,2 @@
+var CacheMixin = function(){
+};
