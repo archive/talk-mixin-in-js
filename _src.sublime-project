@@ -1,0 +1,129 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"file_history":
+	[
+		"/D/Development/mixins/src/mixer.js",
+		"/D/Development/mixins/src/demo-product-view/product-view.js",
+		"/D/Development/mixins/src/demo-jsonify/book.js",
+		"/D/Development/mixins/src/demo-product-view/demo.js",
+		"/D/Development/mixins/src/demo-jsonify/demo.js",
+		"/D/Development/mixins/src/demo-book-service/demo.js",
+		"/D/Development/mixins/src/demo-book-service/book.js",
+		"/D/Development/mixins/README",
+		"/D/Development/mixins/src.sublime-project",
+		"/C/Users/jaha/AppData/Roaming/Sublime Text 2/Packages/User/Global.sublime-settings",
+		"/C/Users/jaha/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/C/Users/jaha/AppData/Roaming/Sublime Text 2/Packages/Default/Base File.sublime-settings",
+		"/D/Development/mixins/src/mixer-styles/strict/demo.js",
+		"/C/Users/jaha/AppData/Roaming/Sublime Text 2/Packages/Default/Global.sublime-settings",
+		"/D/Development/mixins/src/mixer-styles/loose/demo.js",
+		"/D/Development/mixins/src/mixer-styles/loose/demo.html",
+		"/D/Development/mixins/src/demo-product-view/demo.html",
+		"/D/Development/mixins/src/demo-jsonify/demo.html",
+		"/D/Development/mixins/src/demo-book-service/demo.html",
+		"/D/Development/mixins/src/consumer-based-mixin/book-service.js",
+		"/D/Development/mixins/src/consumer-based-mixin/book.js"
+	],
+	"find_in_files":
+	{
+		"include_history":
+		[
+		],
+		"location_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"contains",
+			"equals_",
+			"$(\"#drop-zone\")",
+			"	<li class=\"available\" \"visible\" \"selected\">\n		<h4>I got a name</h4>\n		<p>\n		Yeah, and maybe some body?\n		</p>\n	</li>\n",
+			"calls"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	{
+		"mount_points":
+		[
+			"/D/Development/mixins/src"
+		]
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0,
+			1
+		],
+		"rows":
+		[
+			0,
+			1
+		]
+	},
+	"menu_visible": true,
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0,
+		"selected_items":
+		[
+		],
+		"width": 0
+	},
+	"select_project":
+	{
+		"height": 0,
+		"selected_items":
+		[
+		],
+		"width": 0
+	},
+	"show_minimap": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256,
+	"status_bar_visible": true
+}
