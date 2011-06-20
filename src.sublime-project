@@ -1,0 +1,261 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/Development/mixins/src/demo-book-service/demo.js",
+			"settings":
+			{
+				"buffer_size": 250,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/jaha/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 21,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/Development/mixins/src/demo-jsonify/demo.js",
+			"settings":
+			{
+				"buffer_size": 238,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Development/mixins/src/demo-product-view/demo.js",
+			"settings":
+			{
+				"buffer_size": 113,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"file_history":
+	[
+		"/C/Users/jaha/AppData/Roaming/Sublime Text 2/Packages/User/Global.sublime-settings",
+		"/D/Development/mixins/src.sublime-project",
+		"/C/Users/jaha/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/C/Users/jaha/AppData/Roaming/Sublime Text 2/Packages/Default/Base File.sublime-settings",
+		"/D/Development/mixins/src/mixer-styles/strict/demo.js",
+		"/D/Development/mixins/src/demo-book-service/demo.js",
+		"/C/Users/jaha/AppData/Roaming/Sublime Text 2/Packages/Default/Global.sublime-settings",
+		"/D/Development/mixins/src/mixer-styles/loose/demo.js",
+		"/D/Development/mixins/src/mixer-styles/loose/demo.html",
+		"/D/Development/mixins/src/demo-product-view/demo.html",
+		"/D/Development/mixins/src/demo-jsonify/demo.html",
+		"/D/Development/mixins/src/demo-book-service/demo.html",
+		"/D/Development/mixins/src/demo-book-service/book.js",
+		"/D/Development/mixins/src/mixer.js",
+		"/D/Development/mixins/src/consumer-based-mixin/book-service.js",
+		"/D/Development/mixins/src/consumer-based-mixin/book.js"
+	],
+	"find_in_files":
+	{
+		"include_history":
+		[
+		],
+		"location_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"contains",
+			"equals_",
+			"$(\"#drop-zone\")",
+			"	<li class=\"available\" \"visible\" \"selected\">\n		<h4>I got a name</h4>\n		<p>\n		Yeah, and maybe some body?\n		</p>\n	</li>\n",
+			"calls"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	{
+		"mount_points":
+		[
+			"/D/Development/mixins/src"
+		]
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/Development/mixins/src/demo-book-service/demo.js",
+					"settings":
+					{
+						"buffer_size": 250,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								151,
+								151
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/jaha/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 21,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/Development/mixins/src/demo-jsonify/demo.js",
+					"settings":
+					{
+						"buffer_size": 238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								123,
+								123
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/Development/mixins/src/demo-product-view/demo.js",
+					"settings":
+					{
+						"buffer_size": 113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0,
+			1
+		],
+		"rows":
+		[
+			0,
+			1
+		]
+	},
+	"menu_visible": true,
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0,
+		"selected_items":
+		[
+		],
+		"width": 0
+	},
+	"select_project":
+	{
+		"height": 0,
+		"selected_items":
+		[
+		],
+		"width": 0
+	},
+	"show_minimap": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256,
+	"status_bar_visible": true
+}

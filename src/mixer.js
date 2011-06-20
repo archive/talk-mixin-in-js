@@ -5,23 +5,18 @@ var mixer = {
     },
 
     mixStrict: function (target, mixin) {
-        this._mix(target, mixin, true, false);
-    },
-
-    mixStrictWithContract: function(target, mixin){
-        this._mix(target, mixin, true, true);
+        this._mix(target, mixin, true);
     },
 
     mixLoose: function(target, mixin){
-        this._mix(target, mixin, false, false);
+        this._mix(target, mixin, false);
     },
 
-    _mix:function(target, mixin, useStrict, useContract){
+    _mix:function(target, mixin, useStrict){
         if (typeof mixin === "undefined" ||
             typeof mixin !== "function" ||
             typeof target === "undefined" ||
-            typeof useStrict === "undefined" ||
-            typeof useContract === "undefined") {
+            typeof useStrict === "undefined") {
 
             throw "invalid argument(s)";
         }
@@ -30,10 +25,10 @@ var mixer = {
             target = target.prototype;
         }
 
-        this._copyMembers(target, mixin, useStrict, useContract);
+        this._copyMembers(target, mixin, useStrict);
     },
 
-    _copyMembers: function(target, mixin, useStrict, useContract){
+    _copyMembers: function(target, mixin, useStrict){
         for (var member in mixin.prototype) {
 
             if (mixin.prototype.hasOwnProperty(member)) {
