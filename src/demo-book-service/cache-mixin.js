@@ -1,2 +1,5 @@
-var CacheMixin = function(){
+var CacheMixin = function(){	
+};
+
+CacheMixin.prototype.initCache = function() {	
 };
